@@ -1,0 +1,10 @@
+[
+    {
+        "repository": "android_device_lge_p940",
+        "target_path": "device/lge/p940"
+    },
+    {
+        "repository": "android_kernel_lge_p940",
+        "target_path": "kernel/lge/p940"
+    },
+]
