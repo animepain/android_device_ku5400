@@ -21,7 +21,7 @@
 
 # Kernel
 TARGET_KERNEL_CONFIG := p2_p940_defconfig
-TARGET_KERNEL_SOURCE := kernel/lge/android_kernel_lge_p940
+TARGET_KERNEL_SOURCE := kernel/lge/p940
 
 #Bluetooth
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/lge/p940/bluetooth
